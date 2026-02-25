@@ -1,5 +1,5 @@
 ---
-title: "2026 Officer Elections - VPF Nominations Closing"
+title: "2026 Officer Elections - All Candidates Forum & VPF Nominations Closing"
 author: CRO
 layout: post
 ---
