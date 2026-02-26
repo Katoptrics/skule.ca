@@ -3,6 +3,10 @@ title: GPA Requirements and Thresholds
 layout: page-with-menu
 ---
 
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;"> 
+Please note that the following is an interpretation of  <a href="https://engineering.calendar.utoronto.ca/academic-regulations">academic regulations</a>, which contain official policy on GPA requirements.
+</div> 
+
 ## Understanding GPAs
 ### GPA Terminology
 There are three main types of GPA:
@@ -34,37 +38,39 @@ The following are grade thresholds for first-year students.
         <th style="color:white;"> 45%-50% </th>
         <th style="color:white;"> 50%-55% </th>
         <th style="color:white;"> 55%-60% </th>
-        <th style="color:white;"> 60%-79.5% </th>
-        <th style="color:white;"> >79.5 </th>
+        <th style="color:white;"> 60%-79.4% </th>
+        <th style="color:white;"> >79.4% </th>
     </tr>
     <tr style="vertical-align:top">
         <td id="YELLOW_COL"> <b> Core8 + TrackOne </b> </td>
         <td> You must withdraw from the program, you may apply again next year. Upon readmission you will be placed on repeat probation. </td>
-        <td> You must withdraw and are eligible to retake the semester next year on probation </td>
-        <td> If 3 or fewer courses are less than 50%, enroll in T-Program and repeat courses with marks less than 60% <a href="#footnote-1">[1]</a> 
+        <td> You must withdraw and are eligible to retake the semester next year on probation. </td>
+        <td> If 3 or fewer courses are less than 50%, enroll in T-Program and repeat courses with marks less than 60% <a href="#footnote-1">[1]</a>; 
             <br> <em> OR </em> <br> 
-            Withdraw with the right to repeat next the semester next year on probation </td>
-        <td> If all marks are greater than 50%, proceed to next semester on probation
+            Withdraw with the right to repeat the semester next year on probation. </td>
+        <td> If all marks are greater than 50%, proceed to next semester on probation;
             <br> <em> OR </em> <br>
-            If 3 or fewer courses are less than 50%, enroll in the T-Program and repeat courses with marks less than 50% <a href="#footnote-2">[2]</a> 
+            If 3 or fewer courses are less than 50%, enroll in the T-Program and repeat courses with marks less than 50% <a href="#footnote-2">[2]</a>;
             <br> <em> OR </em> <br>
-            Withdraw with the right to repeat the semester next year on probation </td> 
-        <td> Doing good 🙂 You have a clear academic record </td> 
-        <td> You made the dean’s honours list 🙂 </td> 
+            Withdraw with the right to repeat the semester next year on probation. </td> 
+        <td> Doing good 🙂 You have a clear academic record. </td> 
+        <td> You made the dean’s honours list 🙂. </td> 
     </tr>
     <tr style="vertical-align:top">
         <td id="YELLOW_COL"> <b> EngSci </b> </td>
         <td>You must withdraw from the program. You may apply again next year for a different engineering program. Upon Readmission you will be placed on repeat probation</td>
         <td colspan="2"> You are placed on probation and required to transfer to a different program. You can either: <br>
-            i.  Enroll in the T-Program and retake courses with marks less than 60%.
+            i.  Enroll in the T-Program and take the Core8 equivalent of courses with marks less than 60%;
             <br> <em> OR </em> <br>
             ii. Withdraw from the Faculty with the right to return to a subsequent fall semester in a non-EngSci program with space. </td>
-        <td> You are NOT placed on probation but must either: <br>
-            i. Conditionally transfer to another Engineering program of choice <a href="#footnote-3">[3]</a> 
+        <td> You are NOT placed on probation, you may either: <br>
+            i. Proceed to the next session in Engineering Science;
             <br> <em> OR </em> <br>
-            ii. Transfer to another Engineering program with space </td>
-        <td> Doing good 🙂 You have a clear academic record </td>
-        <td> You made the dean’s honours list 🙂 </td>
+            ii. Conditionally transfer to another Engineering program of choice <a href="#footnote-3">[3]</a>; 
+            <br> <em> OR </em> <br>
+            iii. Transfer to another Engineering program with space with no conditions. </td>
+        <td> Doing good 🙂 You have a clear academic record. </td>
+        <td> You made the dean’s honours list 🙂. </td>
     </tr>
 </table>
 
@@ -80,30 +86,28 @@ The following are grade thresholds for first-year students.
         <th style="color:white;"> 45%-50% </th>
         <th style="color:white;"> 50%-55% </th>
         <th style="color:white;"> 55%-60% </th>
-        <th style="color:white;"> 60%-79.5% </th>
-        <th style="color:white;"> >79.5 </th>
+        <th style="color:white;"> 60%-79.4% </th>
+        <th style="color:white;"> >79.4% </th>
     </tr>
     <tr>
         <td id="BLUE_COL"><b> Core8 + TrackOne </b></td>
-        <td colspan="2"> Repeat the semester immediately when next offered on repeat probation </td>
-        <td> Proceed to next semester on probation </td>
-        <td colspan="2"> Doing good 🙂 You have a clear academic record </td>
-        <td> You made the dean’s honours list 🙂 </td>
+        <td colspan="4"> Withdraw for 8 months. Repeat winter semester when
+        next offered on repeat probation. </td>
+        <td> Doing good 🙂 You have a clear academic record. </td>
+        <td> You made the dean’s honours list 🙂. </td>
     </tr>
     <tr>
         <td id="BLUE_COL"><b>EngSci</b></td>
-        <td> You must repeat the semester immediately when next offered in a Core8 program with space, on repeat probation.</td>
-        <td> You may proceed to next semester in any Core8 program on probation </td>
-        <td colspan="2"> Proceed to next semester in any Core8 program (no probation) </td>
-        <td> Doing good 🙂 You have a clear academic record </td>
-        <td> You made the dean’s honours list 🙂 </td>
+        <td colspan="2"> You must repeat winter semester when next offered in a Core8 program with space, on repeat probation. </td>
+        <td> You may proceed to next semester in any Core8 program with space, on probation. </td>
+        <td>Proceed to next semester in any Core8 program of choice (no probation).</td>
+        <td> Doing good 🙂 You have a clear academic record. </td>
+        <td> You made the dean’s honours list 🙂. </td>
     </tr>
     <tr>
         <td id="BLUE_COL"><b>T-Program</b></td>
-        <td colspan="3"> You may apply for re-admission, if granted it will be on repeat probation. 
-            <br>
-            <b>This is also true if you have a mark of <50% in a repeated course.</b></td>
-        <td colspan="3"> Doing good 🙂 You may proceed to the summer semester on probation in the T-program  </td>
+        <td colspan="4"> You may apply for re-admission. If granted it will be on repeat probation. </td>
+        <td colspan="2"> Doing good 🙂 You may proceed to the summer semester on probation in the T-program.  </td>
     </tr>
 </table>
 
@@ -120,37 +124,40 @@ The following are grade thresholds for all non-first year engineering students.
             Current Academic Standing &darr;</th>
         <th style="color:white;"><55%</th>
         <th style="color:white;">55%-60%</th>
-        <th style="color:white;">60%-79.5%<br></th>
-        <th style="color:white;">>79.5%</th>
+        <th style="color:white;">60%-79.4%<br></th>
+        <th style="color:white;">>79.4%</th>
     </tr>
     <tr>
-        <td id="PURPLE_COL"><b>Clear academic standing (not on probation or repeating a semester) </b></td>
-        <td> Repeat this semester immediately when next offered. If you successfully repeat the semseter, you will proceed on repeat probation </td>
-        <td> You may proceed to the next semester on probation </td>
-        <td> Doing good 🙂 You have a clear academic record </td>
-        <td> You made the dean’s honours list 🙂 </td>
+        <td id="PURPLE_COL"><b>Clear academic standing (not on probation or repeating a semester). </b></td>
+        <td> Repeat this semester immediately when next offered. If you successfully repeat the semseter, you will proceed on repeat probation. </td>
+        <td> You may proceed to the next semester on probation. </td>
+        <td> Doing good 🙂 You have a clear academic record. </td>
+        <td> You made the dean’s honours list 🙂. </td>
     </tr>
     <tr>
         <td id="PURPLE_COL"><b> Proceeding on Probation </b></td>
-        <td colspan="2"> Repeat this semester immediately when next offered. If you successfully repeat the semseter, you will proceed on repeat probation  </td>
-        <td>Doing good 🙂. If you maintained a cGPA of 1.5 or greater, you may proceed to the next semester with a clear standing</td>
-        <td>You made the dean’s honours list 🙂 If you maintained a cGPA of 1.5 or greater, you may proceed to the next semester with a clear standing </td>
+        <td colspan="2"> Repeat this semester immediately when next offered. If you successfully repeat the semseter, you will proceed on repeat probation. </td>
+        <td>Doing good 🙂. If you maintained a cGPA of 1.5 or greater, you may proceed to the next semester with a clear standing. </td>
+        <td>You made the dean’s honours list 🙂 If you maintained a cGPA of 1.5 or greater, you may proceed to the next semester with a clear standing. </td>
     </tr>
     <tr>
         <td id="PURPLE_COL"><b> Proceeding on Repeat Probation </b></td>
-        <td colspan="2"> You will be refused further registration. You are not eligible for re-admission </td>
-        <td colspan="2"> Doing good 🙂 If you maintained a cGPA of 1.5 or greater, you may proceed to the next semester on probation </td>
+        <td colspan="2"> You will be refused further registration. You are not eligible for re-admission. </td>
+        <td colspan="2"> Doing good 🙂 If you maintained a cGPA of 1.5 or greater, you may proceed to the next semester on probation. </td>
     </tr>
     <tr>
         <td id="PURPLE_COL"><b> Repeating a Semester </b></td>
-        <td colspan="2"> You will be refused further registration. You are not eligible for re-admission </td>
-        <td colspan="2"> Proceed to the next cemester on repeat probation </td>
+        <td colspan="2"> You will be refused further registration. You are not eligible for re-admission. </td>
+        <td colspan="2"> Proceed to the next semester on repeat probation. </td>
     </tr>
 </table>
 
 *Notes:*
 * *Grade thresholds for EngSci students are the same as those for Core8 students after first-year*
-* *Proceeding with a clear standing does **not** mean your transcript will be wiped of all records of your prbationary status.*
+* *For the purposes of probation lifting, a non-repeated semester means four or more non-repeated half-course equivalents*
+* *Proceeding with a clear standing does **not** mean your transcript will be immediately wiped of all records of your probationary status. A record of your probationary status will remain on your transcript for the remainder of your undergrad.*
+* *An academic standing of "Proceeding on Probation," or "On Repeat Probation" will be removed and changed to "Pass" (or "Honours" if applicable) upon graduation.*
+
 
 ## Honours Upon Graduation
 There are two types of honours you can be awarded upon graduation: **high honours** and **honours**

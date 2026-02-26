@@ -1,9 +1,8 @@
 ---
 title: Skule™ Finances
-layout: page
+layout: finance
+order: 1
 ---
-
-This page is a work in progress. We apologize for any inconveniences.
 
 ## A gentle introduction to Skule™ Finances
 
@@ -20,17 +19,30 @@ There are several main funding avenues for students and student clubs:
 - Conference Funding
 - Special Projects Funding
 
-To identify which funding avenue is best for your purposes, feel free to use the finance wizard below or browse the finance pages in this website.
+To identify which funding avenue is best for your purposes, see the tables below or browse the finance pages in this website.
 
-### Finance Wizard
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+    <img src="/assets/finance-club-funding.png" alt="Club Funding" style="max-width: 100%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/assets/finance-other-funding.png" alt="Other Funding" style="max-width: 100%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</div>
 
-The following tool has been provided to help determine which funding avenue is the best for your situation. <b> Please read the disclaimer. By entering your email, you agree to the terms of the disclaimer. <b>
-
-<a class="button-is-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSd4fQPR3ZO6AUvgnW0ev82GjdRG9SQHvb-OAPJfjEUSdvvHRA/viewform"> Finance Wizard </a>
+<style>
+@media (max-width: 700px) {
+  div[style*="display: flex"] img {
+    max-width: 100% !important;
+    min-width: 0 !important;
+    flex-basis: 100% !important;
+  }
+  div[style*="display: flex"] {
+    flex-direction: column !important;
+    gap: 16px !important;
+  }
+}
+</style>
 
 ## Applying for funding
 
-Once you have identified your funding avenue, you should download the application forms, fill them out, and submit them through the forms sent out monthly by the VP finance, from the email address vpfinance@skule.ca. Alternatively, you may send <a href="mailto:vpfinance@skule.ca"> the VP Finance </a> an email. <b>Please use the templates provided.<b> If applications are made without the templates, they are more difficult to process, and risk being rejected entirely.
+Once you have identified your funding avenue, you should download the application forms, fill them out, and submit them through the forms sent out monthly by the VP finance or the Finance Secretary. If applications are made without the templates, they are more difficult to process, and risk being rejected entirely.
 
 When filling in application forms, it is best to be detailed. Expense items should be broken down as much as possible, receipt by receipt if possible. Include contingencies where applicable - a 5% allowance is normally made for larger projects. At this stage, cost estimates are fine, since funding applications are only being <i>approved<i>. By having applications approved, you gain the right to requisition your approved funds in the future.
 
